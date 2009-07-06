@@ -1,0 +1,2 @@
+D:\Testing Items\infiniminer\source3\Infiniminer\code\InfiniminerShared\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Infiniminer Source\Prtotocol 1\code\InfiniminerShared\Content\obj\x86\Debug\ResolveAssemblyReference.cache
